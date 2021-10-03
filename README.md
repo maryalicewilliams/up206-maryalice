@@ -22,5 +22,6 @@ Philly
 ## What I would like to get out of the course
 I have long been interested in using GIS to better understand spatial issues of urban planning, but I have no technical background using it. I would like to become somewhat comfortable using python and gain a grasp of spatial data science as a way to communicate system processes, demographic information, and other attributes of geographic space and time.
 ## Project Ideas
-Transportation patterns and growth from x-y in X location
-Mande language distribution in Senegambia region
+* Transportation patterns and distribution pre- and post-pandemic (location tbd)
+* Relationship between multigenerational household concentration and public transportation in urban settings
+* Mande language distribution throughout West Africa (just for fun)
