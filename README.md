@@ -12,7 +12,7 @@ Philly
 
 
 
-2. [knitting](https://www.ravelry.com/projects/xMaryAlicex)
+2. [knitting](https://www.ravelry.com/projects/xMaryAlicex/friesland)
 3. spending too much money at flea markets
 ## Interests in Urban Planning
 * Sustainability
